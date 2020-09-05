@@ -13,7 +13,7 @@ function Staking() {
         Announcement will be on Discord.
       </p>
       <ul>
-        <li>Stake assets and LP assets in a Candy Rocket to earn $CANDY every second.</li>
+        <li>Stake assets and JustSwap LP assets in a Candy Rocket to earn $CANDY every second.</li>
         <li>Get a $CANDY bonus when the Candy Rocket launches, based on your participation ratio.</li>
         <li>The Candy Rocket launches every 150 hours.</li>
         <li>Only one Candy Rocket is active at a time.</li>

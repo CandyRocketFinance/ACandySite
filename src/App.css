@@ -28,6 +28,7 @@ body {
   background-image: linear-gradient(var(--color-lt-pink),var(--color-lt-blue));
   color:var(--color-dk);
   min-height:100vh;
+  padding:20px;
 }
 
 main, header, footer {

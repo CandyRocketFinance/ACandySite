@@ -15,78 +15,68 @@ function Staking() {
       <h4>Staking</h4>
       <ul>
         <li>Stake assets and JustSwap LP assets in a Candy Rocket to earn $CANDY every second.</li>
-        <li>The Candy Rocket takes 150 hours to launch.</li>
-        <li>Each Candy Rocket has 3 levels.</li>
-        <li>Candy Rocket level 3 has two assets, split 50/50 by value at creation.</li>
-        <li>Each level distributes 1 CANDY/hour.</li>
+        <li>The Candy Rocket takes 100 hours to launch.</li>
+        <li>Each Candy Rocket has 2 levels.</li>
+        <li>Each level gets half of 1 CANDY/hour.</li>
         <li>IMPORTANT: Actual rocket assets are subject to change. These are examples!</li>
         <li>USDJ Rocket:
           <ol>
             <li>USDJ</li>
             <li>USDJ/TRX</li>
-            <li>USDJ/TRX + Candy</li>
           </ol>
         </li>
         <li>Pearl Rocket:
           <ol>
             <li>Pearl</li>
             <li>Pearl/TRX</li>
-            <li>Pearl/TRX + Candy</li>
           </ol>
         </li>
         <li>JST Rocket:
           <ol>
             <li>JST</li>
             <li>JST/TRX</li>
-            <li>JST/TRX + Candy</li>
           </ol>
         </li>
         <li>JFI Rocket:
           <ol>
             <li>JFI</li>
             <li>JFI/TRX</li>
-            <li>JFI/TRX + Candy</li>
           </ol>
         </li>
         <li>SAL Rocket:
           <ol>
             <li>SAL</li>
             <li>SAL/TRX</li>
-            <li>SAL/TRX + Candy</li>
           </ol>
         </li>
         <li>DZI Rocket:
           <ol>
             <li>DZI</li>
             <li>DZI/TRX</li>
-            <li>DZI/TRX + Candy</li>
           </ol>
         </li>
         <li>TAI Rocket:
           <ol>
             <li>TAI</li>
             <li>TAI/TRX</li>
-            <li>TAI/TRX + Candy</li>
           </ol>
         </li>
         <li>CORN Rocket:
           <ol>
             <li>CORN</li>
             <li>CORN/TRX</li>
-            <li>CORN/TRX + Candy</li>
           </ol>
         </li>
         <li>Want another Candy Rocket for a different asset? Ask on Discord!</li>
       </ul>
-      <p>At any time stake CANDY/TRX LP in the Sugar Fuel pool!</p>
       <h4>Tokenomics</h4>
       <ul>
         <li>NO Team tokens, NO VC money, NO Founder premine.</li>
         <li>100% of CANDY is distributed FAIRLY to COMMUNITY!</li>
-        <li>3100 hardcap</li>
-        <li>100 CANDY fair presale, max 1 CANDY per buyer at 10,000 TRX/CANDY</li>
-        <li>1500 CANDY distributed to Candy Rockets stakers.</li>
-        <li>1500 CANDY distribted to Sugar Pool stakers.</li>
+        <li>3000 hardcap</li>
+        <li>1000 CANDY distributed to Candy Rocket stakers.</li>
+        <li>1000 CANDY distribted to Candy Pool (CANDY/TRX) stakers.</li>
+        <li>1000 CANDY distribted to Sugar Pool (SUGAR/TRX) stakers.</li>
       </ul>
     </main>
   );

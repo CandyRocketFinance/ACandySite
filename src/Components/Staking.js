@@ -17,7 +17,7 @@ function Staking() {
         <li>Stake assets and JustSwap LP assets in a Candy Rocket to earn $CANDY every second.</li>
         <li>The Candy Rocket takes 100 hours to launch.</li>
         <li>Each Candy Rocket has 2 levels.</li>
-        <li>Each level gets half of 1 CANDY/hour.</li>
+        <li>Each Candy Rocket earns 1 CANDY/hour.</li>
         <li>IMPORTANT: Actual rocket assets are subject to change. These are examples!</li>
         <li>USDJ Rocket:
           <ol>
@@ -73,7 +73,7 @@ function Staking() {
       <ul>
         <li>NO Team tokens, NO VC money, NO Founder premine.</li>
         <li>100% of CANDY is distributed FAIRLY to COMMUNITY!</li>
-        <li>3000 hardcap</li>
+        <li>3000 supply cap.</li>
         <li>1000 CANDY distributed to Candy Rocket stakers.</li>
         <li>1000 CANDY distribted to Candy Pool (CANDY/TRX) stakers.</li>
         <li>1000 CANDY distribted to Sugar Pool (SUGAR/TRX) stakers.</li>
